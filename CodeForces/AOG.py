@@ -42,6 +42,6 @@ def main(objectnum, inputs, max, min):
     return counter
 
 if __name__ == "__main__":
-    a =objectnum()
+    a = objectnum()
     b = inputs()
     stdout.write(str(main(a, b, max(b), min(b))))
