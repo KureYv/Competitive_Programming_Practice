@@ -1,2 +1,2 @@
 # Comp_practice
-List of competitive programming problems I have done
+Pretty small rn need to do more...
