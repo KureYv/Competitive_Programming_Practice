@@ -1,4 +1,5 @@
-# Comp_practice
-Includes
+# Competitivepractice
+
+## Includes
 
 DMOJ, Codeforces, A2OJ
